@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is post body",
+      "publishedAt": "8-11-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is post body",
+      "publishedAt": "8-11-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is post body",
+      "publishedAt": "8-11-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This tis a new body",
+      "publishedAt": "2020-11-09",
+      "id": "D0ygXW4"
+    },
+    {
+      "title": "sex",
+      "body": "dam",
+      "publishedAt": "2020-11-04",
+      "id": "rqCWByf"
+    },
+    {
+      "title": "wewe",
+      "body": "23",
+      "publishedAt": "2020-11-07",
+      "id": "0EXzbAy"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Jhon dam",
+      "email": "jhon@example.com"
+    },
+    {
+      "name": "Sudipta Kumar Damw",
+      "email": "hbowen@drury.edu",
+      "id": "MBy8UUu"
+    }
+  ]
+}
